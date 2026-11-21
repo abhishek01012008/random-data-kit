@@ -1,0 +1,24 @@
+{
+  "name": "random-data-kit",
+  "version": "1.0.1",
+  "description": "Generate random users, IDs, and synthetic test data",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "random-data",
+    "fake-data",
+    "test-data",
+    "mock-data",
+    "users"
+  ],
+  "license": "MIT"
+}

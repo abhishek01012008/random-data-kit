@@ -298,5 +298,5 @@ Created as a lightweight utility package for generating random test data.
 ## Links
 
 - [npm Package](https://www.npmjs.com/package/random-data-kit)
-- [Report an Issue](https://github.com/your-username/random-data-kit/issues)
+- [Report an Issue](https://github.com/your-abhishek01012008/random-data-kit/issues)
 # random-data-kit

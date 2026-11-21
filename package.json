@@ -1,6 +1,6 @@
 {
   "name": "random-data-kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate random users, IDs, and synthetic test data",
   "type": "module",
   "main": "./src/index.js",

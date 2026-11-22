@@ -4,7 +4,6 @@ A lightweight JavaScript library for generating random users, names, emails, use
 
 [![npm version](https://img.shields.io/npm/v/random-data-kit)](https://www.npmjs.com/package/random-data-kit)
 [![npm downloads](https://img.shields.io/npm/dm/random-data-kit)](https://www.npmjs.com/package/random-data-kit)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
 
@@ -295,3 +294,4 @@ Created as a lightweight utility package for generating random test data.
 ## Links
 
 - [npm Package](https://www.npmjs.com/package/random-data-kit)
+- [raise issues](https://github.com/abhishek01012008/random-data-kit/issues)
